@@ -1,0 +1,4 @@
+{
+  "config_path": "/seller_local",
+  "etcd": "65.1.86.197:2379"
+}
